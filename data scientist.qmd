@@ -47,6 +47,6 @@ str(y)
 ### *Plot function on y:*
 
 ```{r}
-#| echo: false
+#| echo: TRUE
 plot(y)
 ```
